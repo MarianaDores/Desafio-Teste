@@ -1,5 +1,7 @@
 Desafio 
 
+Api JSONPlaceholder - https://jsonplaceholder.typicode.com
+
 Mapeamento de cenário de teste
 
 Cenário 1: Validação do status.
